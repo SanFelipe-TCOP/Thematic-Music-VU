@@ -282,10 +282,10 @@ music = {
 	file = "la_bavara.ogg"
 }
 
-music = {
-	name = "suite_en_re_mineur_pour_clavecin"
-	file = "suite_en_re_mineur_pour_clavecin.ogg"
-}
+#music = {
+#	name = "suite_en_re_mineur_pour_clavecin"
+#	file = "suite_en_re_mineur_pour_clavecin.ogg"
+#}
 
 music = {
 	name = "marche_pour_la_ceremonie_des_turcs"
@@ -467,15 +467,15 @@ music = {
 	file = "scourge.ogg"
 }
 
-music = {
-	name = "horn_sonata"
-	file = "horn_sonata.ogg"
-}
+#music = {
+#	name = "horn_sonata"
+#	file = "horn_sonata.ogg"
+#}
 
-music = {
-	name = "argerich"
-	file = "argerich.ogg"
-}
+#music = {
+#	name = "argerich"
+#	file = "argerich.ogg"
+#}
 
 music = {
 	name = "alter_dessauer"
@@ -512,10 +512,10 @@ music = {
 	file = "kaiser_walzer.ogg"
 }
 
-music = {
-	name = "overture_eighteen_twelve"
-	file = "overture_eighteen_twelve.ogg"
-}
+#music = {
+#	name = "overture_eighteen_twelve"
+#	file = "overture_eighteen_twelve.ogg"
+#}
 
 music = {
 	name = "lakme"
@@ -1031,10 +1031,10 @@ music = {
 	file = "indian_himalayas.ogg"
 }
 
-music = {
-	name = "inner_peace"
-	file = "inner_peace.ogg"
-}
+#music = {
+#	name = "inner_peace"
+#	file = "inner_peace.ogg"
+#}
 
 music = {
 	name = "khlong"
@@ -1081,10 +1081,10 @@ music = {
 	file = "khmer_two.ogg"
 }
 
-music = {
-	name = "komreng"
-	file = "komreng.ogg"
-}
+#music = {
+#	name = "komreng"
+#	file = "komreng.ogg"
+#}
 
 music = {
 	name = "konchanh_chek"
@@ -1220,20 +1220,20 @@ music = {
 	file = "golden_age_of_india.ogg"
 }
 
-music = {
-	name = "sitar_tabla"
-	file = "sitar_tabla.ogg"
-}
+#music = {
+#	name = "sitar_tabla"
+#	file = "sitar_tabla.ogg"
+#}
 
 music = {
 	name = "vaishnava_jana"
 	file = "vaishnava_jana.ogg"
 }
 
-music = {
-	name = "hanuman_chalisa"
-	file = "hanuman_chalisa.ogg"
-}
+#music = {
+#	name = "hanuman_chalisa"
+#	file = "hanuman_chalisa.ogg"
+#}
 
 music = {
 	name = "manglacharan_ganesh_vandana"
@@ -2000,10 +2000,10 @@ music = {
 	file = "nias_tribe.ogg"
 }
 
-music = {
-	name = "sundanese_music_of_west_java"
-	file = "sundanese_music_of_west_java.ogg"
-}
+#music = {
+#	name = "sundanese_music_of_west_java"
+#	file = "sundanese_music_of_west_java.ogg"
+#}
 
 music = {
 	name = "wayan_loceng"
