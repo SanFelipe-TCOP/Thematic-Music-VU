@@ -1364,10 +1364,10 @@ music = {
 	file = "ancient_slavic_battle_music_three.ogg"
 }
 
-music = {
-	name = "ancient_slavic_pagan_music"
-	file = "ancient_slavic_pagan_music.ogg"
-}
+#music = {
+#	name = "ancient_slavic_pagan_music"
+#	file = "ancient_slavic_pagan_music.ogg"
+#}
 
 music = {
 	name = "battle_of_slavic_warriors"
@@ -3072,4 +3072,595 @@ music = {
 music = {
 	name = "god_bless_america"
 	file = "god_bless_america.ogg"
+}
+
+#NEW SONGS
+music = {
+	name = "yellow_rose_of_texas"
+	file = "yellow_rose_of_texas.ogg"
+}
+
+music = {
+	name = "gott_erhalte_franz_den_kaiser"
+	file = "gott_erhalte_franz_den_kaiser.ogg"
+}
+
+music = {
+	name = "radetzky_marsch"
+	file = "radetzky_marsch.ogg"
+}
+
+music = {
+	name = "byzantium_1"
+	file = "byzantium_1.ogg"
+}
+
+music = {
+	name = "byzantium_2"
+	file = "byzantium_2.ogg"
+}
+
+music = {
+	name = "byzantium_3"
+	file = "byzantium_3.ogg"
+}
+
+music = {
+	name = "byzantium_4"
+	file = "byzantium_4.ogg"
+}
+
+music = {
+	name = "byzantium_5"
+	file = "byzantium_5.ogg"
+}
+
+music = {
+	name = "byzantium_6"
+	file = "byzantium_6.ogg"
+}
+
+music = {
+	name = "byzantium_7"
+	file = "byzantium_7.ogg"
+}
+
+music = {
+	name = "byzantium_8"
+	file = "byzantium_8.ogg"
+}
+
+music = {
+	name = "byzantium_9"
+	file = "byzantium_9.ogg"
+}
+
+music = {
+	name = "byzantium_10"
+	file = "byzantium_10.ogg"
+}
+
+music = {
+	name = "byzantium_11"
+	file = "byzantium_11.ogg"
+}
+
+music = {
+	name = "byzantium_12"
+	file = "byzantium_12.ogg"
+}
+
+music = {
+	name = "byzantium_13"
+	file = "byzantium_13.ogg"
+}
+
+music = {
+	name = "byzantium_14"
+	file = "byzantium_14.ogg"
+}
+
+music = {
+	name = "farewell_to_nova_scotia"
+	file = "farewell_to_nova_scotia.ogg"
+}
+
+music = {
+	name = "palastinalied"
+	file = "palastinalied.ogg"
+}
+
+music = {
+	name = "palastinalied_1"
+	file = "palastinalied_1.ogg"
+}
+
+music = {
+	name = "palastinalied_instrumental"
+	file = "palastinalied_instrumental.ogg"
+}
+
+music = {
+	name = "templars_1"
+	file = "templars_1.ogg"
+}
+
+music = {
+	name = "templars_2"
+	file = "templars_2.ogg"
+}
+
+music = {
+	name = "templars_3"
+	file = "templars_3.ogg"
+}
+
+music = {
+	name = "templars_4"
+	file = "templars_4.ogg"
+}
+
+music = {
+	name = "templars_5"
+	file = "templars_5.ogg"
+}
+
+music = {
+	name = "templars_6"
+	file = "templars_6.ogg"
+}
+
+music = {
+	name = "templars_7"
+	file = "templars_7.ogg"
+}
+
+music = {
+	name = "abide_with_me"
+	file = "abide_with_me.ogg"
+}
+
+music = {
+	name = "i_vow_to_thee_my_country"
+	file = "i_vow_to_thee_my_country.ogg"
+}
+
+music = {
+	name = "jerusalem"
+	file = "jerusalem.ogg"
+}
+
+music = {
+	name = "the_green_mountaineer"
+	file = "the_green_mountaineer.ogg"
+}
+
+music = {
+	name = "what_power_art_thou"
+	file = "what_power_art_thou.ogg"
+}
+
+music = {
+	name = "nuijamiesten_marssi"
+	file = "nuijamiesten_marssi.ogg"
+}
+
+music = {
+	name = "aupres_de_ma_blonde"
+	file = "aupres_de_ma_blonde.ogg"
+}
+
+music = {
+	name = "chant_de_l_oignon"
+	file = "chant_de_l_oignon.ogg"
+}
+
+music = {
+	name = "ard_skellig_village"
+	file = "ard_skellig_village.ogg"
+}
+
+music = {
+	name = "fist_fight"
+	file = "fist_fight.ogg"
+}
+
+music = {
+	name = "her_ladyship"
+	file = "her_ladyship.ogg"
+}
+
+music = {
+	name = "o_quantum_solicitor"
+	file = "o_quantum_solicitor.ogg"
+}
+
+music = {
+	name = "rattay_feasts"
+	file = "rattay_feasts.ogg"
+}
+
+music = {
+	name = "reveillez_vous_picards"
+	file = "reveillez_vous_picards.ogg"
+}
+
+music = {
+	name = "rondeau_from_abdelaze"
+	file = "rondeau_from_abdelaze.ogg"
+}
+
+music = {
+	name = "the_dike_part_1"
+	file = "the_dike_part_1.ogg"
+}
+
+music = {
+	name = "the_dike_part_2"
+	file = "the_dike_part_2.ogg"
+}
+
+music = {
+	name = "the_rake_hornpipe"
+	file = "the_rake_hornpipe.ogg"
+}
+
+music = {
+	name = "deutschlandlied"
+	file = "deutschlandlied.ogg"
+}
+
+music = {
+	name = "koniggratzer_marsch"
+	file = "koniggratzer_marsch.ogg"
+}
+
+music = {
+	name = "preusens_gloria"
+	file = "preusens_gloria.ogg"
+}
+
+music = {
+	name = "prussian_glory"
+	file = "prussian_glory.ogg"
+}
+
+music = {
+	name = "vrwowe_ich_pin_dir_untertan"
+	file = "vrwowe_ich_pin_dir_untertan.ogg"
+}
+
+music = {
+	name = "wellerman"
+	file = "wellerman.ogg"
+}
+
+music = {
+	name = "the_rocky_road_to_dublin"
+	file = "the_rocky_road_to_dublin.ogg"
+}
+
+music = {
+	name = "dai_nippon_teikoku_1"
+	file = "dai_nippon_teikoku_1.ogg"
+}
+
+music = {
+	name = "dai_nippon_teikoku_2"
+	file = "dai_nippon_teikoku_2.ogg"
+}
+
+music = {
+	name = "dai_nippon_teikoku_3"
+	file = "dai_nippon_teikoku_3.ogg"
+}
+
+music = {
+	name = "japan_overture"
+	file = "japan_overture.ogg"
+}
+
+music = {
+	name = "land_of_rising_sun"
+	file = "land_of_rising_sun.ogg"
+}
+
+music = {
+	name = "last_samurai_1"
+	file = "last_samurai_1.ogg"
+}
+
+music = {
+	name = "last_samurai_2"
+	file = "last_samurai_2.ogg"
+}
+
+music = {
+	name = "last_samurai_3"
+	file = "last_samurai_3.ogg"
+}
+
+music = {
+	name = "last_samurai_4"
+	file = "last_samurai_4.ogg"
+}
+
+music = {
+	name = "last_samurai_5"
+	file = "last_samurai_5.ogg"
+}
+
+music = {
+	name = "last_samurai_6"
+	file = "last_samurai_6.ogg"
+}
+
+music = {
+	name = "last_samurai_7"
+	file = "last_samurai_7.ogg"
+}
+
+music = {
+	name = "last_samurai_8"
+	file = "last_samurai_8.ogg"
+}
+
+music = {
+	name = "last_samurai_9"
+	file = "last_samurai_9.ogg"
+}
+
+music = {
+	name = "letters_from_iwo_jima"
+	file = "letters_from_iwo_jima.ogg"
+}
+
+music = {
+	name = "red_warrior_1"
+	file = "red_warrior_1.ogg"
+}
+
+music = {
+	name = "red_warrior_2"
+	file = "red_warrior_2.ogg"
+}
+
+music = {
+	name = "yuki_no_shingun"
+	file = "yuki_no_shingun.ogg"
+}
+
+music = {
+	name = "baharodzica"
+	file = "baharodzica.ogg"
+}
+
+music = {
+	name = "grand_duchy_of_lithuania"
+	file = "grand_duchy_of_lithuania.ogg"
+}
+
+music = {
+	name = "litvin"
+	file = "litvin.ogg"
+}
+
+music = {
+	name = "oi_sermuksnio"
+	file = "oi_sermuksnio.ogg"
+}
+
+music = {
+	name = "harald_foss"
+	file = "harald_foss.ogg"
+}
+
+music = {
+	name = "rolandskvadet_1"
+	file = "rolandskvadet_1.ogg"
+}
+
+music = {
+	name = "rolandskvadet_2"
+	file = "rolandskvadet_2.ogg"
+}
+
+music = {
+	name = "ved_stanford_brua"
+	file = "ved_stanford_brua.ogg"
+}
+
+music = {
+	name = "dzikie_pola"
+	file = "dzikie_pola.ogg"
+}
+
+music = {
+	name = "hej_na_wzgorze"
+	file = "hej_na_wzgorze.ogg"
+}
+
+music = {
+	name = "hej_sokoly"
+	file = "hej_sokoly.ogg"
+}
+
+music = {
+	name = "lets_go_lets_beat_muscovites"
+	file = "lets_go_lets_beat_muscovites.ogg"
+}
+
+music = {
+	name = "mazurka_of_the_third_of_may"
+	file = "mazurka_of_the_third_of_may.ogg"
+}
+
+music = {
+	name = "oh_the_rowan"
+	file = "oh_the_rowan.ogg"
+}
+
+music = {
+	name = "drum_bun"
+	file = "drum_bun.ogg"
+}
+
+music = {
+	name = "how_we_stood_at_shipka"
+	file = "how_we_stood_at_shipka.ogg"
+}
+
+music = {
+	name = "oh_flip_that_dry_oak"
+	file = "oh_flip_that_dry_oak.ogg"
+}
+
+music = {
+	name = "siberian_soldiers"
+	file = "siberian_soldiers.ogg"
+}
+
+music = {
+	name = "when_we_are_at_war"
+	file = "when_we_are_at_war.ogg"
+}
+
+music = {
+	name = "are_ye_sleeping_maggie"
+	file = "are_ye_sleeping_maggie.ogg"
+}
+
+music = {
+	name = "the_bonnie_banks_of_loch_lomond"
+	file = "the_bonnie_banks_of_loch_lomond.ogg"
+}
+
+music = {
+	name = "drunken_sailor"
+	file = "drunken_sailor.ogg"
+}
+
+music = {
+	name = "carolus_rex"
+	file = "carolus_rex.ogg"
+}
+
+music = {
+	name = "sabaton_carolus_rex"
+	file = "sabaton_carolus_rex.ogg"
+}
+
+music = {
+	name = "tartar_1"
+	file = "tartar_1.ogg"
+}
+
+music = {
+	name = "tartar_2"
+	file = "tartar_2.ogg"
+}
+
+music = {
+	name = "tartar_3"
+	file = "tartar_3.ogg"
+}
+
+music = {
+	name = "tartar_4"
+	file = "tartar_4.ogg"
+}
+
+music = {
+	name = "tartar_5"
+	file = "tartar_5.ogg"
+}
+
+music = {
+	name = "tartar_6"
+	file = "tartar_6.ogg"
+}
+
+music = {
+	name = "tartar_7"
+	file = "tartar_7.ogg"
+}
+
+music = {
+	name = "tartar_8"
+	file = "tartar_8.ogg"
+}
+
+music = {
+	name = "tartar_9"
+	file = "tartar_9.ogg"
+}
+
+music = {
+	name = "tartar_10"
+	file = "tartar_10.ogg"
+}
+
+music = {
+	name = "tartar_11"
+	file = "tartar_11.ogg"
+}
+
+music = {
+	name = "ceddin_deden"
+	file = "ceddin_deden.ogg"
+}
+
+music = {
+	name = "ceddin_deden_1"
+	file = "ceddin_deden_1.ogg"
+}
+
+music = {
+	name = "farewell_to_the_slavic"
+	file = "farewell_to_the_slavic.ogg"
+}
+
+music = {
+	name = "going_home_from_the_don"
+	file = "going_home_from_the_don.ogg"
+}
+
+music = {
+	name = "hai_live_vilna_ukraine"
+	file = "hai_live_vilna_ukraine.ogg"
+}
+
+music = {
+	name = "hey_falcons"
+	file = "hey_falcons.ogg"
+}
+
+music = {
+	name = "hey_I_had_cognac"
+	file = "hey_I_had_cognac.ogg"
+}
+
+music = {
+	name = "oh_on_the_mountains_and_women_to_reap"
+	file = "oh_on_the_mountains_and_women_to_reap.ogg"
+}
+
+music = {
+	name = "riding_through_the_city"
+	file = "riding_through_the_city.ogg"
+}
+
+music = {
+	name = "rode_beyond_the_danube"
+	file = "rode_beyond_the_danube.ogg"
+}
+
+music = {
+	name = "the_ride_to_dubno"
+	file = "the_ride_to_dubno.ogg"
+}
+
+music = {
+	name = "zaporozhian_cossack"
+	file = "zaporozhian_cossack.ogg"
 }
