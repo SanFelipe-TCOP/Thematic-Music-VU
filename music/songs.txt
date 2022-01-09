@@ -1542,26 +1542,6 @@ song = {
 	}
 }
 
-#song = {
-#	name = "suite_en_re_mineur_pour_clavecin"
-#	
-#	chance = {
-#		modifier = {
-#            factor = 0
-#            NOT = { has_institution = printing_press }
-#            OR = { NOT = { has_institution = printing_press } has_institution = manufactories has_institution = enlightenment }
-#        }
-#		modifier = {
-#            factor = 0
-#            OR = { religion = confucianism religion_group = muslim religion = shinto religion = buddhism religion = vajrayana religion = mahayana religion_group = dharmic religion = tengri_pagan_reformed culture_group = west_slavic culture_group = east_slavic culture_group = byzantine religion = coptic religion = animism religion = shamanism culture_group = pacific culture_group = aboriginal_australian culture_group = malay culture_group = filipino_i culture_group = andean_group culture_group = central_american culture_group = aridoamerican culture_group = chibchan culture_group = cariban_g culture_group = arawakan_g culture_group = je_tupi culture_group = je culture_group = mataco culture_group = araucanian culture_group = maranon culture_group = otomanguean culture_group = southern_uto_aztecan culture_group = carribean primary_culture = american }
-#        }
-#        modifier = {
-#            factor = 2
-#            OR = { capital_scope = { superregion = europe_superregion } has_institution = printing_press }
-#        }		
-#	}
-#}
-
 song = {
 	name = "marche_pour_la_ceremonie_des_turcs"
 	
@@ -3246,44 +3226,6 @@ song = {
 	}
 }
 
-#song = {
-#	name = "horn_sonata"
-#	
-#	chance = {
-#		modifier = {
-#            factor = 0
-#            NOT = { has_institution = industrialisation }
-#        }
-#		modifier = {
-#            factor = 0
-#            OR = { religion = confucianism religion_group = muslim religion = shinto religion = buddhism religion = vajrayana religion = mahayana religion_group = dharmic religion = tengri_pagan_reformed culture_group = west_slavic culture_group = east_slavic culture_group = byzantine religion = coptic religion = animism religion = shamanism culture_group = pacific culture_group = aboriginal_australian culture_group = malay culture_group = filipino_i culture_group = andean_group culture_group = central_american culture_group = aridoamerican culture_group = chibchan culture_group = cariban_g culture_group = arawakan_g culture_group = je_tupi culture_group = je culture_group = mataco culture_group = araucanian culture_group = maranon culture_group = otomanguean culture_group = southern_uto_aztecan culture_group = carribean primary_culture = american }
-#        }
-#        modifier = {
-#            factor = 2
-#            OR = { capital_scope = { superregion = europe_superregion } has_institution = industrialisation }
-#        }
-#	}
-#}
-
-#song = {
-#	name = "argerich"
-#	
-#	chance = {
-#		modifier = {
-#            factor = 0
-#            NOT = { has_institution = industrialisation }
-#        }
-#		modifier = {
-#            factor = 0
-#            OR = { religion = confucianism religion_group = muslim religion = shinto religion = buddhism religion = vajrayana religion = mahayana religion_group = dharmic religion = tengri_pagan_reformed culture_group = west_slavic culture_group = east_slavic culture_group = byzantine religion = coptic religion = animism religion = shamanism culture_group = pacific culture_group = aboriginal_australian culture_group = malay culture_group = filipino_i culture_group = andean_group culture_group = central_american culture_group = aridoamerican culture_group = chibchan culture_group = cariban_g culture_group = arawakan_g culture_group = je_tupi culture_group = je culture_group = mataco culture_group = araucanian culture_group = maranon culture_group = otomanguean culture_group = southern_uto_aztecan culture_group = carribean primary_culture = american }
-#        }
-#        modifier = {
-#            factor = 2
-#            OR = { capital_scope = { superregion = europe_superregion } has_institution = industrialisation }
-#        }
-#	}
-#}
-
 song = {
 	name = "alter_dessauer"
 	
@@ -3416,25 +3358,6 @@ song = {
         }
 	}
 }
-
-#song = {
-#	name = "overture_eighteen_twelve"
-#	
-#	chance = {
-#		modifier = {
-#            factor = 0
-#            NOT = { has_institution = industrialisation }
-#        }
-#		modifier = {
-#            factor = 0
-#            OR = { religion = confucianism religion_group = muslim religion = shinto religion = buddhism religion = vajrayana religion = mahayana religion_group = dharmic religion = tengri_pagan_reformed culture_group = west_slavic culture_group = east_slavic culture_group = byzantine religion = coptic religion = animism religion = shamanism culture_group = pacific culture_group = aboriginal_australian culture_group = malay culture_group = filipino_i culture_group = andean_group culture_group = central_american culture_group = aridoamerican culture_group = chibchan culture_group = cariban_g culture_group = arawakan_g culture_group = je_tupi culture_group = je culture_group = mataco culture_group = araucanian culture_group = maranon culture_group = otomanguean culture_group = southern_uto_aztecan culture_group = carribean primary_culture = american }
-#        }
-#        modifier = {
-#            factor = 2
-#            OR = { capital_scope = { superregion = europe_superregion } has_institution = industrialisation }
-#        }
-#	}
-#}
 
 song = {
 	name = "lakme"
@@ -7308,25 +7231,6 @@ song = {
     }
 }
 
-#song = {
-#    name = "sundanese_music_of_west_java"
-#    
-#    chance = {
-#        modifier = {
-#            factor = 0
-#			NOT = { culture_group = malay }
-#        }
-#		modifier = {
-#            factor = 0
-#			OR = { culture_group = miao_g culture_group = taiwanese_group culture_group = burman culture_group = kra_dai_culture_group culture_group = southeastasian_group culture_group = japanese_g culture_group = pacific culture_group = tibetan_group culture_group = finno_ugric culture_group = andean_group culture_group = central_american culture_group = aridoamerican culture_group = chibchan culture_group = cariban_g culture_group = arawakan_g culture_group = je_tupi culture_group = je culture_group = mataco culture_group = araucanian culture_group = maranon culture_group = otomanguean culture_group = southern_uto_aztecan culture_group = carribean culture_group = aboriginal_australian culture_group = filipino_i }
-#        }
-#        modifier = {
-#            factor = 2 
-#            OR = { culture_group = malay }
-#        }
-#    }
-#}
-
 song = {
     name = "wayan_loceng"
     
@@ -9009,7 +8913,7 @@ song = {
 }
 
 song = {
-    name = "the_ride_to_dubno"
+    name = "the_cossacks"
     
     chance = {
         modifier = {
@@ -9087,21 +8991,6 @@ song = {
 
 song = {
     name = "ancient_slavic_battle_music_two"
-    
-    chance = {
-        modifier = {
-            factor = 0
-            NOT = { culture_group = west_slavic }
-        }
-        modifier = {
-            factor = 2 
-            culture_group = west_slavic
-        }
-    }
-}
-
-song = {
-    name = "ancient_slavic_pagan_music"
     
     chance = {
         modifier = {
@@ -9794,21 +9683,6 @@ song = {
     }
 }
 
-#song = {
-#    name = "inner_peace"
-#    
-#    chance = {
-#        modifier = {
-#            factor = 0
-#            NOT = { OR = { religion = buddhism religion = vajrayana religion = mahayana } }
-#        }
-#        modifier = {
-#            factor = 2 
-#            OR = { religion = buddhism religion = vajrayana religion = mahayana }
-#        }
-#    }
-#}
-
 song = {
     name = "khlong"
     
@@ -9943,21 +9817,6 @@ song = {
         }
     }
 }
-
-#song = {
-#    name = "komreng"
-#    
-#    chance = {
-#        modifier = {
-#            factor = 0
-#            NOT = { OR = { religion = buddhism religion = vajrayana religion = mahayana } }
-#        }
-#        modifier = {
-#            factor = 2 
-#            OR = { religion = buddhism religion = vajrayana religion = mahayana }
-#        }
-#    }
-#}
 
 song = {
     name = "konchanh_chek"
@@ -10364,21 +10223,6 @@ song = {
     }
 }
 
-#song = {
-#    name = "sitar_tabla"
-#    
-#    chance = {
-#        modifier = {
-#            factor = 0
-#            NOT = { religion_group = dharmic }
-#        }
-#        modifier = {
-#            factor = 2 
-#            religion_group = dharmic
-#        }
-#    }
-#}
-
 song = {
     name = "vaishnava_jana"
     
@@ -10393,21 +10237,6 @@ song = {
         }
     }
 }
-
-#song = {
-#    name = "hanuman_chalisa"
-#    
-#    chance = {
-#        modifier = {
-#            factor = 0
-#            NOT = { religion_group = dharmic }
-#        }
-#        modifier = {
-#            factor = 2 
-#            religion_group = dharmic
-#        }
-#    }
-#}
 
 song = {
     name = "manglacharan_ganesh_vandana"
