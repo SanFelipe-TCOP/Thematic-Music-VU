@@ -3428,23 +3428,3 @@ music = {
 	name = "ceddin_deden_1"
 	file = "ceddin_deden_1.ogg"
 }
-
-#music = {
-#	name = "tartar_1"
-#	file = "tartar_1.ogg"
-#}
-#
-#music = {
-#	name = "tartar_2"
-#	file = "tartar_2.ogg"
-#}
-#
-#music = {
-#	name = "tartar_3"
-#	file = "tartar_3.ogg"
-#}
-#
-#music = {
-#	name = "tartar_4"
-#	file = "tartar_4.ogg"
-#}
