@@ -907,8 +907,13 @@ music = {
 }
 
 music = {
-	name = "god_save_the_tzar_industrial_age"
-	file = "god_save_the_tzar_industrial_age.ogg"
+	name = "god_keep_the_tzar"
+	file = "god_keep_the_tzar.ogg"
+}
+
+music = {
+	name = "preobrazhensky_march"
+	file = "preobrazhensky_march.ogg"
 }
 
 music = {
@@ -2253,11 +2258,6 @@ music = {
 music = {
 	name = "ei_oukniem"
 	file = "ei_oukniem.ogg"
-}
-
-music = {
-	name = "god_save_the_tzar"
-	file = "god_save_the_tzar.ogg"
 }
 
 music = {

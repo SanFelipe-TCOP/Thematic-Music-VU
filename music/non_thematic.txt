@@ -4298,7 +4298,7 @@ song = {
 }
 
 song = {
-    name = "god_save_the_tzar"
+    name = "god_keep_the_tzar"
     
     chance = {
         modifier = {
@@ -4869,21 +4869,6 @@ song = {
 
 song = {
     name = "when_we_are_at_war"
-    
-    chance = {
-        modifier = {
-            factor = 0
-            NOT = { culture_group = east_slavic }
-        }
-        modifier = {
-            factor = 2 
-            culture_group = east_slavic
-        }
-    }
-}
-
-song = {
-    name = "farewell_to_the_slavic"
     
     chance = {
         modifier = {
