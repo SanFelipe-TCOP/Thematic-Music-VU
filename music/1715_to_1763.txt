@@ -127,7 +127,6 @@ song = {
 	name = "three_equali"
 	
 	chance = {
-	    chance = {
 	    modifier = {
             factor = 0
             is_year = 1763
